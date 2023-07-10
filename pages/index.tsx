@@ -21,6 +21,10 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
+          <a href="https://lockparty.me" className={styles.card}>
+            <h2>LockParty &rarr;</h2>
+            <p>Beautiful, live photo grids on your Lock Screen.</p>
+          </a>
           <a href="https://cutouts.me" className={styles.card}>
             <h2>Cutouts &rarr;</h2>
             <p>Snap and drag pictures into iMessage.</p>

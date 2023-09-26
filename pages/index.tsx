@@ -21,6 +21,10 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
+          <a href="https://slingshot.camera" className={styles.card}>
+            <h2>Slingshot &rarr;</h2>
+            <p>Pull down and release to sling cute shots to friends.</p>
+          </a>
           <a href="https://lockparty.me" className={styles.card}>
             <h2>LockParty &rarr;</h2>
             <p>Beautiful, live photo grids on your Lock Screen.</p>

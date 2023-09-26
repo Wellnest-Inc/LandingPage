@@ -80,7 +80,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-          Made with ❤️‍🔥 & 🤬.
+          Made with ❤️‍🔥 in San Francisco.
       </footer>
     </div>
   )

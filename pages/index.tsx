@@ -25,7 +25,7 @@ export default function Home() {
             <h2>Slingshot &rarr;</h2>
             <p>Pull down and release to sling cute shots to friends.</p>
           </a>
-          <a href="https://lockparty.me" className={styles.card}>
+          <a href="https://apps.apple.com/us/app/lockparty/id6450584938" className={styles.card}>
             <h2>LockParty &rarr;</h2>
             <p>Beautiful, live photo grids on your Lock Screen.</p>
           </a>
@@ -40,7 +40,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://twitter.com/tommysearle/status/1451244788053803010?s=20&t=jzq3fBf4r4DR3Jhy2zlexw"
+            href="https://share.icloud.com/photos/0183KckBmDdlwYG_09RoAKh_g"
             className={styles.card}
           >
             <h2>Licks &rarr;</h2>
@@ -68,7 +68,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://apps.apple.com/us/app/wellnest-self-care-journal/id1492773698"
+            href="https://wellnestjournal.webflow.io/"
             className={styles.card}
           >
             <h2>Wellnest v1 &rarr;</h2>
